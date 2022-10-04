@@ -1,9 +1,9 @@
    ## WELCOME !! ##
 
 - 👋 Hi, I’m @kaushiksoni10
-- 👀 I’m interested in Data Science and it's applications
-- 🌱 I’m currently learning Deep learning in more detail
-- 💞️ I’m looking to collaborate on any NLP project since I have experience in this.
+- 👀 I’m interested in Data Science/Machine Learning and it's applications
+- 🌱 I’m currently learning Deep learning/Computer Vision in more detail
+- 💞️ I’m open to collaborate on any NLP project.
 - 📫 Reach me out on - kaushiksoni10@gmail.com 
 
 <!---
